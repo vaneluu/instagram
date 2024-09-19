@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(180, 97, 180);
+}
+
+.caja1 {
+    height: 50px;
+    background-color: rgb(98, 66, 102);
+}
+
+.caja2 {
+    height: 50px;
+    background-color: rgb(185, 119, 216);
+}
+
+.caja3 {
+    height: 50px;
+    background-color: rgb(143, 90, 194);
+}
+
+.caja4 {
+    height: 100px;
+    background-color: rgb(99, 52, 100);
+    border: 2px solid rgb(41, 28, 44);
+}
+
+.cajaArticle {
+    height: 300px;
+    background-color: rgb(151, 92, 163);
+    border: 2px solid rgb(54, 37, 61);
+}
+
+
+.cajaAside {
+    height: 1500px;
+    background-color: rgb(147, 101, 165);
+    border: 2px solid rgb(72, 48, 82);
+}
+
+
+.caja5 {
+    height: 709px;
+    background-color: rgb(122, 65, 139);
+    border: 2px solid rgb(76, 31, 87);
+    
+}
+
+.caja6 {
+    height: 190px;
+    background-color: rgb(132, 82, 151);
+    border: 2px solid rgb(49, 30, 58);
+    
+}
+
+.caja7 {
+    height: 300px;
+    background-color: rgb(138, 91, 177);
+    border: 2px solid rgb(65, 46, 70);
+    
+}
+
+.caja8 {
+    height: 130px;
+    background-color: rgb(80, 51, 94);
+    border: 2px solid rgb(65, 46, 70);
+    
+    
+}
+
+
+
+
+.enlaces{
+    text-align: center;
+    padding: 40px;
+}
+
+.footer{
+    background-color: rgb(52, 34, 61);
+    border: 2px solid rgb(65, 46, 70);
+    
+}
